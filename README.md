@@ -1,6 +1,10 @@
 # Whoami
 Projects/ Education <br>
 -
+These are my personal projects and education examination deliveries. <br>
+Feel free to use my examinations deliveries only for educational purposes. <br>
+Note that some of these deliveries are group projects and the work is shared across my teamates <br>
+
 Education <br>  
 -
 Bachelor in Cybersecurity - Kristiania University of Applied Sciences
