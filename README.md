@@ -15,3 +15,6 @@ Databases - DB1102 / Passed <br>
 Digital Teknologies - TK1104 / Passed <br>
 [TK1104-Digital-teknologi](https://github.com/1mTojii/TK1104-Digital-teknologi) <br>
 
+--Year 1 semester 2-- <br>
+Ethics and community responsibility - ESB1100 / Passed <br>
+
