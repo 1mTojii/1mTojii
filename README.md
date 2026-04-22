@@ -23,6 +23,12 @@ Information security - TK2100 / Passed <br>
 Objectoriented porgramming - PGR112 / Passed <br>
 [PGR112-Objektorientert-programmering-](https://github.com/1mTojii/PGR112-Objektorientert-programmering-) <br>
 
-
+--Year 2 semester 1-- <br>
+Ethical Hacking - ETH2100 / Grade: A <br>
+//REDACTED// -- The delivery could not be provided due to professor's request <br>
+Cyberdefence - CYB2100 / Grade: A <br>
+//REDACTED// -- The delivery could not be provided due to professor's request <br>
+SKY2100 / Grade: C / Update incoming <br>
+[SKY21000-Skysikkerhet-](https://github.com/1mTojii/SKY21000-Skysikkerhet-) <br>
 
 
