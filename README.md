@@ -1,4 +1,22 @@
 # Whoami
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=1m_Tojii;Cybersecurity+Student;Future+Ethical+Hacker;Code.+Break.+Secure." alt="Typing SVG" />
+</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-00ff99?style=for-the-badge&logo=ghost&logoColor=black" />
+  <img src="https://img.shields.io/badge/FOCUS-CYBERSECURITY-0d1117?style=for-the-badge&logo=protonvpn&logoColor=00F7FF" />
+  <img src="https://img.shields.io/badge/BUILDING-MY%20FUTURE-111111?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+---
+
+```bash
+> booting profile...
+> user: 1m_Tojii
+> role: cybersecurity student
+> mindset: keep learning, keep building
+> status: online
 Projects/ Education <br>
 -
 These are my personal projects and education examination deliveries. <br>
