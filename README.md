@@ -9,14 +9,7 @@
   <img src="https://img.shields.io/badge/BUILDING-MY%20FUTURE-111111?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
----
 
-```bash
-> booting profile...
-> user: 1m_Tojii
-> role: cybersecurity student
-> mindset: keep learning, keep building
-> status: online
 Projects/ Education <br>
 -
 These are my personal projects and education examination deliveries. <br>
