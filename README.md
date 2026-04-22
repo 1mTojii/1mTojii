@@ -9,7 +9,10 @@
   <img src="https://img.shields.io/badge/GitHub-00ff99?style=for-the-badge&logo=github&logoColor=black" />
 </a>
 </p>
-
+```bash
+> booting system...
+> user: 1m_Tojii
+> status: offline
 
 Projects/ Education <br>
 -
