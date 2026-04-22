@@ -23,7 +23,7 @@ Digital Teknologies - TK1104 / Passed <br>
 Ethics and community responsibility - ESB1100 / Grade: C <br>
 [ESB1100-Etikk-smafunnsansvar-og-b-rekraft](https://github.com/1mTojii/ESB1100-Etikk-smafunnsansvar-og-b-rekraft) <br>
 Information security - TK2100 / Passed <br>
-[TK2100-Informasjonssikerhet](https://github.com/1mTojii/TK2100-Informasjonssikerhet) <br>
+//REDACTED// -- The delivery could not be provided due to professort's request <br>
 Objectoriented porgramming - PGR112 / Passed <br>
 [PGR112-Objektorientert-programmering-](https://github.com/1mTojii/PGR112-Objektorientert-programmering-) <br>
 
