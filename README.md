@@ -4,9 +4,12 @@
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-OFFLINE-00ff99?style=for-the-badge&logo=ghost&logoColor=black" />
+  <img src="https://img.shields.io/badge/STATUS-OFFLINE-228B22?style=for-the-badge&logo=ghost&logoColor=black" />
 <a href="https://github.com/1mTojii">
-  <img src="https://img.shields.io/badge/GitHub-00ff99?style=for-the-badge&logo=github&logoColor=black" />
+  <img src="https://img.shields.io/badge/GitHub-228B22?style=for-the-badge&logo=github&logoColor=black" />
+</a>
+    <a href="https://app.hackthebox.com/profile/ImTojiii" target="_blank">
+  <img src="https://img.shields.io/badge/Hack%20The%20Box-228B22?style=for-the-badge&logo=hackthebox&logoColor=black" />
 </a>
 </p>
 
