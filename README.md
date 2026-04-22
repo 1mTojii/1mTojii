@@ -1,11 +1,11 @@
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1000&color=228B22&center=true&vCenter=true&width=700&lines=1m_Tojii;Aim+High+Dream+Big;Code.+Break.+Secure." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1000&color=228B22&center=true&vCenter=true&width=700&lines=1mTojii;Aim+High+Dream+Big;Code.+Break.+Secure." alt="Typing SVG" />
 </h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-OFFLINE-00ff99?style=for-the-badge&logo=ghost&logoColor=black" />
-<a href="https://github.com/1m_Tojii">
+<a href="https://github.com/1mTojii">
   <img src="https://img.shields.io/badge/GitHub-00ff99?style=for-the-badge&logo=github&logoColor=black" />
 </a>
 </p>
