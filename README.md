@@ -1,4 +1,5 @@
 # Whoami
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=1mTojii&show_icons=true&theme=tokyonight)
 Projects/ Education <br>
 -
 These are my personal projects and education examination deliveries. <br>
