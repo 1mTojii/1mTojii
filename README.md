@@ -4,9 +4,8 @@
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-00ff99?style=for-the-badge&logo=ghost&logoColor=black" />
-  <img src="https://img.shields.io/badge/FOCUS-CYBERSECURITY-0d1117?style=for-the-badge&logo=protonvpn&logoColor=00F7FF" />
-  <img src="https://img.shields.io/badge/BUILDING-MY%20FUTURE-111111?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/STATUS-OFFLINE-00ff99?style=for-the-badge&logo=ghost&logoColor=black" />
+  [![GitHub](https://img.shields.io/badge/GitHub-00ff99?style=for-the-badge&logo=github&logoColor=black)](https://github.com/1m_Tojii)/>
 </p>
 
 
