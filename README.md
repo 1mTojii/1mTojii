@@ -1,6 +1,4 @@
 # Whoami
-![Name](https://img.shields.io/badge/1m_Tojii-000000?style=for-the-badge&logo=ghost&logoColor=00F7FF) <br>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=1mTojii&show_icons=true&theme=tokyonight) <br>
 Projects/ Education <br>
 -
 These are my personal projects and education examination deliveries. <br>
@@ -40,3 +38,4 @@ SKY2100 / Grade: C / Update incoming <br>
 Projects
 -
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=1mTojii&show_icons=true&theme=tokyonight) <br>
