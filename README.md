@@ -1,5 +1,5 @@
 # Whoami
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&size=35&center=true&vCenter=true&width=600&lines=1m_Tojii;Cybersecurity+Student;Future+Ethical+Hacker) <br>
+![Name](https://img.shields.io/badge/1m_Tojii-000000?style=for-the-badge&logo=ghost&logoColor=00F7FF) <br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=1mTojii&show_icons=true&theme=tokyonight) <br>
 Projects/ Education <br>
 -
