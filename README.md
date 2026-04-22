@@ -1,6 +1,9 @@
 # Whoami
-Projects/ Education
-Education // Bachelor in Cybersecurity - Kristiania University of Applied Sciences
+Projects/ Education <br>
+-
+Education <br>  
+-
+Bachelor in Cybersecurity - Kristiania University of Applied Sciences
 
 --Year 1 semester 1-- <br>
 Creative Web Project - PRO105 / Passed <br>
