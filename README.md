@@ -31,4 +31,6 @@ Cyberdefence - CYB2100 / Grade: A <br>
 SKY2100 / Grade: C / Update incoming <br>
 [SKY21000-Skysikkerhet-](https://github.com/1mTojii/SKY21000-Skysikkerhet-) <br>
 
+Projects
+-
 
