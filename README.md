@@ -5,7 +5,9 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-OFFLINE-00ff99?style=for-the-badge&logo=ghost&logoColor=black" />
-  <img src="https://img.shields.io/badge/GitHub-00ff99?style=for-the-badge&logo=github&logoColor=black)(https://github.com/1m_Tojii)" />
+<a href="https://github.com/1m_Tojii">
+  <img src="https://img.shields.io/badge/GitHub-00ff99?style=for-the-badge&logo=github&logoColor=black" />
+</a>
 </p>
 
 
