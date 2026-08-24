@@ -60,7 +60,7 @@ Red team tool portfolio <br>
 https://github.com/1mTojii/RedTeam-tools <br>
 
 
-streaks
+Streaks
 -
 
 <!-- Streak stats, different project/infra -->
