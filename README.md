@@ -50,6 +50,13 @@ SKY2100 / Grade: C / Update incoming <br>
 [SKY21000-Skysikkerhet-](https://github.com/1mTojii/SKY21000-Skysikkerhet-) <br>
 
 --Year 2 senester 2-- <br>
+It project management - BU5300 / Grade: B <br>
+
+Programming in C for Linux - PG3401 / Grade: B <br>
+
+Algroithms and Data Structures - PG4200 / Grade: C / Update incoming <br>
+
+Python Programming - PGR107 / Grade: A <br>
 
 Projects
 -
