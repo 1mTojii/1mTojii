@@ -57,6 +57,7 @@ Programming in C for Linux - PG3401 / Grade: B <br>
 Algroithms and Data Structures - PG4200 / Grade: C / Update incoming <br>
 https://github.com/1mTojii/PG4200-Algorithms-and-data-structures-exam <br>
 Python Programming - PGR107 / Grade: A <br>
+https://github.com/1mTojii/PGR107-Python-Programming-Exam <br>
 
 Projects
 -
