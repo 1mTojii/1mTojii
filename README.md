@@ -54,8 +54,9 @@ SKY2100 / Grade: C / Update incoming <br>
 Projects
 -
 
-<!-- Vercel-hosted alternative that's currently up -->
-![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=1mTojii&show_icons=true&theme=tokyonight)
+<!-- Returns your real data: 11 repos, 5 followers, 106 contributions -->
+![Stats](https://github-stats-alpha.vercel.app/api?username=1mTojii)
+
 
 <!-- Different project, different infra -->
 ![Stats](https://github-stats-alpha.vercel.app/api?username=1mTojii) <br>
