@@ -54,4 +54,4 @@ SKY2100 / Grade: C / Update incoming <br>
 Projects
 -
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=1mTojii&show_icons=true&theme=tokyonight&cache_seconds=86400) <br>
+![GitHub stats](https://YOUR-INSTANCE.vercel.app/api?username=1mTojii&show_icons=true&theme=tokyonight) <br>
