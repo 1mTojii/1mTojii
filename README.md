@@ -54,6 +54,7 @@ SKY2100 / Grade: C / Update incoming <br>
 Projects
 -
 
+-
 <!-- Streak stats, different project/infra -->
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=1mTojii&theme=tokyonight)
 
