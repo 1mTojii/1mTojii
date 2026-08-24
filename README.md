@@ -53,9 +53,9 @@ SKY2100 / Grade: C / Update incoming <br>
 It project management - BU5300 / Grade: B <br>
 https://github.com/1mTojii/BU5300-IT-Project-Managemet <br>
 Programming in C for Linux - PG3401 / Grade: B <br>
-
+//REDACTED// -- The delivery could not be provided due to professor's request <br>
 Algroithms and Data Structures - PG4200 / Grade: C / Update incoming <br>
-https://github.com/1mTojii/PG4200-Algorithms-and-data-structures-exam
+https://github.com/1mTojii/PG4200-Algorithms-and-data-structures-exam <br>
 Python Programming - PGR107 / Grade: A <br>
 
 Projects
