@@ -54,8 +54,8 @@ SKY2100 / Grade: C / Update incoming <br>
 Projects
 -
 
-<!-- Returns your real data: 11 repos, 5 followers, 106 contributions -->
-![Stats](https://github-stats-alpha.vercel.app/api?username=1mTojii)
+<!-- Streak stats, different project/infra -->
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=1mTojii&theme=tokyonight)
 
 
 <!-- Different project, different infra -->
