@@ -56,6 +56,8 @@ Programming in C for Linux - PG3401 / Grade: B <br>
 //REDACTED// -- The delivery could not be provided due to professor's request <br>
 Algroithms and Data Structures - PG4200 / Grade: C / Update incoming <br>
 https://github.com/1mTojii/PG4200-Algorithms-and-data-structures-exam <br>
+Algorithms and Data Structures - Retake - PG4200 / Grade: A <br>
+
 Python Programming - PGR107 / Grade: A <br>
 https://github.com/1mTojii/PGR107-Python-Programming-Exam <br>
 
