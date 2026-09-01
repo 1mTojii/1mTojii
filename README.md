@@ -50,7 +50,7 @@ Cyberdefence - CYB2100 / Grade: A <br>
 SKY2100 / Grade: C / Update incoming <br>
 [SKY21000-Skysikkerhet-](https://github.com/1mTojii/SKY21000-Skysikkerhet-) <br>
 
---Year 2 senester 2-- <br>
+--Year 2 semester 2-- <br>
 It project management - BU5300 / Grade: B <br>
 https://github.com/1mTojii/BU5300-IT-Project-Managemet <br>
 Programming in C for Linux - PG3401 / Grade: B <br>
@@ -62,7 +62,7 @@ https://github.com/1mTojii/PG4200-Algorithms-and-data-structures-exam <br>
 Python Programming - PGR107 / Grade: A <br>
 https://github.com/1mTojii/PGR107-Python-Programming-Exam <br>
 
---Year 3 senester 1-- <br>
+--Year 3 semester 1-- <br>
 
 Projects
 -
