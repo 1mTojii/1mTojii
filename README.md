@@ -66,6 +66,9 @@ https://github.com/1mTojii/PGR107-Python-Programming-Exam <br>
 
 Projects
 -
+
+Note: If you spot something wrong, unlawfull or bad coded plz notify me so i can fix it :). Everything here is for educational purposes
+
 Blue team tool portfolio <br>
 https://github.com/1mTojii/BlueTeam-tools <br>
 
